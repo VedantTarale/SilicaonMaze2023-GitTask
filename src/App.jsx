@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="p-2 m-2 text-center text-rose-700 w-full">
+      <div className="py-2 my-2 text-center text-rose-700 w-full text-6xl font-bold">
         Silicon Maze 2023
       </div>
     </>
