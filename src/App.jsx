@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div className='flex justify-center items-center'>
-      <img src={image} className='w-[40%]'/>
+      <img src={image} className='w-[30%]'/>
     </div>
     </>
   )
